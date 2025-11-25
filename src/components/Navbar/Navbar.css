@@ -88,14 +88,14 @@ a{
     .nav-menu{
         position: fixed;
         flex-direction: column;
-        align-items: center;
+        align-items: start;
         top: 0;
         gap: 30px;
-        background-color: #1f0016;
-        width: 350px;
+        background-color: rgba(39, 38, 38, 0.874);
+        width: 50%;
         height: 100%;
         z-index: 2;
-        transition: right 0.5s;
+        transition: right 0.3s ease-in-out;
         right: -350px;
     } 
 
@@ -103,6 +103,6 @@ a{
     .nav-menu li{
         font-size: 18px;
         padding-top: 30px;
-        /* padding-left: 100px; */
+        padding-left: 20px;
     }
 }
