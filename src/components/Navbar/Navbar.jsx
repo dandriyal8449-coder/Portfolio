@@ -1,6 +1,5 @@
 import React, { useRef, useState } from 'react'
 import './Navbar.css'
-import AnchorLink from 'react-anchor-link-smooth-scroll'
 import { MdMenu } from "react-icons/md";
 import { RxCross2 } from "react-icons/rx";
 
