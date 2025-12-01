@@ -20,7 +20,6 @@ const Navbar = () => {
     setMenuIcon(!menuIcon)
   }
 
-  
 
   return (
     <header  className='header'>
