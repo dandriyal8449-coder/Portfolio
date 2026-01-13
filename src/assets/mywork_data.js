@@ -10,13 +10,13 @@ const mywork_data = [
         w_no:1,
         w_name:"Web design",
         w_img:project1_img,
-        w_link: "https://dandriyal8449-coder.github.io/foodie/"
+        w_link: "https://dandriyal8449-coder.github.io/Agency/"
     },
     {
         w_no:2,
         w_name:"Web design",
         w_img:project2_img,
-        w_link: "https://dandriyal8449-coder.github.io/Bella-vista-web/"
+        w_link: "https://dandriyal8449-coder.github.io/food_web/"
         
     },
     {
@@ -29,14 +29,14 @@ const mywork_data = [
         w_no:4,
         w_name:"Web design",
         w_img:project4_img,
-        w_link: "https://dandriyal8449-coder.github.io/Bella-vista-web/"
+        w_link: "https://dandriyal8449-coder.github.io/Estate-web/"
         
     },
     {
         w_no:5,
         w_name:"Web design",
         w_img:project5_img,
-        w_link: "https://dandriyal8449-coder.github.io/StudySync/"
+        w_link: "https://dandriyal8449-coder.github.io/Brightmatter/"
         
     },
     {
