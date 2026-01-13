@@ -63,6 +63,11 @@ a{
     .nav-contact{
         display: none;
     }
+    .navbar h2{
+    font-size: 38px;
+    /* padding-left: 12px; */
+}
+
 }
 
 @media (max-width:850px) {
@@ -91,8 +96,8 @@ a{
         align-items: start;
         top: 0;
         gap: 30px;
-        background-color: rgba(39, 38, 38, 0.874);
-        width: 50%;
+        background-color: black;
+        width: 60%;
         height: 100%;
         z-index: 2;
         transition: right 0.3s ease-in-out;
@@ -105,4 +110,10 @@ a{
         padding-top: 30px;
         padding-left: 20px;
     }
+
+    .navbar h2{
+    font-size: 35px;
+    /* padding-left: 12px; */
+}
+
 }

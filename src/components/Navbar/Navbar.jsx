@@ -27,10 +27,8 @@ const Navbar = () => {
             <h2>PORT<span>FOLIO</span></h2>
             {
               menuIcon ?
-              <span className='menu-close-icon' 
-                onClick={closeMenu}
-                ><RxCross2 /></span>:
-                <span onClick={openMenu} className='menu-open-icon' ><MdMenu/></span>
+              <span className='menu-close-icon' onClick={closeMenu}><RxCross2 /></span>:
+              <span onClick={openMenu} className='menu-open-icon' ><MdMenu/></span>
             }
                 
 
